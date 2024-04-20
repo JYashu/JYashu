@@ -6,10 +6,6 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
 <br clear="both">
 
 <div align="center">
