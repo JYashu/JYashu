@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Ayush Jain, from India. Working as a full-stack developer.</p>
+<p align="center">I'm Ayush Jain from India. Working as a full-stack developer.</p>
 
 ###
 
