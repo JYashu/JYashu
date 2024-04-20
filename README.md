@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">This is Ayush. I'm working as a full-stack developer.</h3>
+<h3 align="center">This is Ayush. A full-stack developer from India.</h3>
 
 ###
 
