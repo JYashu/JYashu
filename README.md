@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">This is Ayush from India. Working as a full-stack developer.</p>
+<h3 align="center">This is Ayush from India. Working as a full-stack developer.</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="center">You van each me at:</h3>
+<h3 align="center">You can reach me at:</h3>
 
 ###
 
