@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="center">This is Ayush from India. Working as a full-stack developer.</h3>
+<h3 align="center">This is Ayush. I'm working as a full-stack developer.</h3>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -35,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JYashu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=GitHub%20Stats" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JYashu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=GitHub%20Stats" height="150" alt="languages graph"  />
 </div>
 
 ###
